@@ -100,8 +100,9 @@ To make things work more smoothly this semester, here's the planned week to week
 ---
 ## Week 7
 ### Lecture 2: March 02
+Review Day
 
-### Lecture 2: March 04
+### Midterm: March 04
 
 
 
@@ -168,6 +169,7 @@ To make things work more smoothly this semester, here's the planned week to week
 ### Lecture 2: April 27
 
 ### Lecture 2: April 29
+Review Day
 
 
 
