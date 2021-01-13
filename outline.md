@@ -41,14 +41,18 @@ To make things work more smoothly this semester, here's the planned week to week
 ### Lecture 1: January 19
 
 #### Topics Covered:
-- Foo
-- bar
-- taco
-- egg
+- Introduction to class
+- Walk through the syllabus
+- Chapter 1 Slides
+- Demonstrate LaTex
 
 
 ### Lecture 2: January 21
 
+#### Topics Covered:
+- GDP
+- Price Indices
+- Chain Weighting
 
 
 
