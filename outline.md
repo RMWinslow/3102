@@ -6,7 +6,21 @@ description: Breakdown of the course week by week.
 
 # Course Outline
 
+Note that the dates below are for section 003 of the Spring 2021 course. 
+
+
+
+
 ## Week 1
+
+### Lecture 1: January 19
+
+Topics
+: Introduction
+
+### Lecture 2: January 21
+
+
 
 
 
