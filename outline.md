@@ -15,8 +15,12 @@ Note that the dates below are for section 003 of the Spring 2021 course.
 
 ### Lecture 1: January 19
 
-Topics
-: Introduction
+#### Topics Covered:
+- Foo
+- bar
+- taco
+- egg
+
 
 ### Lecture 2: January 21
 
