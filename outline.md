@@ -50,7 +50,7 @@ To make things work more smoothly this semester, here's the planned week to week
 ### Lecture 2: January 21
 
 #### Topics Covered:
-- GDP
+- GDP and GNP
 - Price Indices
 - Chain Weighting
 
@@ -60,35 +60,73 @@ To make things work more smoothly this semester, here's the planned week to week
 ---
 ## Week 2
 ### Lecture 2: January 26
+#### Topics Covered:
+- National Savings and other aggregates
+- Labor Market Variables
+- Finding economic aggregate data online.
 
 ### Lecture 2: January 28
-
+#### Topics Covered:
+- Business Cycle Definitions
+- Seasonal Adjustment
 
 
 
 ---
 ## Week 3
 ### Lecture 2: February 02
+#### Topics Covered:
+- Review Preferences and Utility
+- Concept of a Competitive Equilibrium
+- Representative Consumer's Problem
+    - Labor / leisure decisions
+    - Consumer's constraints
+    - Shifts in exogenous wage or outside income
+- Labor supply curve
 
 ### Lecture 2: February 04
+#### Topics Covered:
+- Representative Firm's Problem
+- Profit maximization
+- Shifts in exogenous prices and technology
+- Labor demand curve
 
 
 
 ---
 ## Week 4
 ### Lecture 2: February 09
+#### Topics Covered:
+- Government Budget Constraint
+- Endogenous vs Exogenous
+- Combining Producer and Consumer problems
+    - Market Clearing Conditions
+    - Pareto Efficiency
+- Underlying Algebraic Concepts
+- Drawing a picture of equilibrium
 
 ### Lecture 2: February 11
-
+#### Topics Covered:
+- Continue discussion of equilbrium
+- Shocks to CE
+- Comparisons to business cycle facts
+- Changing the model to income tax
+- Public goods
 
 
 
 ---
 ## Week 5
 ### Lecture 2: February 16
+#### Topics Covered:
+- Malthusian Growth
+- Solow Growth
+- differences in assumptions
 
 ### Lecture 2: February 18
-
+#### Topics Covered:
+- Finding steady state in Solow
+- Shocks in solow model
 
 
 
