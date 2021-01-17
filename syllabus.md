@@ -260,27 +260,27 @@ We will be covering material from the textbook, which is Macroeconomics (6th Edi
 The broad plan for the course is to go through the material in Williamson in the following order:
 
 - Measurement Issues
-    – Introduction (Chapter 1)
-    – National Accounts and Price Indices (Chapter 2)
-    – Business Cycle Measurement (Chapter 3)
-    – Definition and Measurement of Money (Beginning of Chapter 12)
+    - Introduction (Chapter 1)
+    - National Accounts and Price Indices (Chapter 2)
+    - Business Cycle Measurement (Chapter 3)
+    - Definition and Measurement of Money (Beginning of Chapter 12)
 - One Period Macroeconomic Competitive Equilibrium
-    – Microeconomic Foundations: Consumer and Firm Behavior (Chapter 4)
-    – Closed Economy Model (Chapter 5)
+    - Microeconomic Foundations: Consumer and Firm Behavior (Chapter 4)
+    - Closed Economy Model (Chapter 5)
 - Economic Growth:
-    – The Malthusian world, and the Solow Growth Model (Chapter 7)
-    – Endogenous Growth (Chapter 8)
+    - The Malthusian world, and the Solow Growth Model (Chapter 7)
+    - Endogenous Growth (Chapter 8)
 - Competitive Equilibrium with Multiple Time Periods
-    – Microeconomic Foundations: The consumption-saving decision and credit markets. (Chapter 9)
-    – Credit Market Imperfections (Chapter 10)
-    – A Real Intertemporal Model with Investment (Chapter 11)
+    - Microeconomic Foundations: The consumption-saving decision and credit markets. (Chapter 9)
+    - Credit Market Imperfections (Chapter 10)
+    - A Real Intertemporal Model with Investment (Chapter 11)
 - Money and Business Cycles
-    – A Monetary Intertemporal Model (Chapter 12)
-    – Market-clearing Models of Business Cycles (Chapter 13)
-    – Keynesian Sticky Prices Model (Chapter 14)
+    - A Monetary Intertemporal Model (Chapter 12)
+    - Market-clearing Models of Business Cycles (Chapter 13)
+    - Keynesian Sticky Prices Model (Chapter 14)
 - International Macroeconomics (If time allows)
-    – International Trade in Goods and Assets (Chapter 16)
-    – Money in the Open Economy (Chapter 17)
+    - International Trade in Goods and Assets (Chapter 16)
+    - Money in the Open Economy (Chapter 17)
 
  
 
@@ -325,10 +325,10 @@ Learning to type mathematical equations will involve an initial time investment,
 - The due date of every problem set will be indicated on the assignment, and will be at least one week from the day it is posted.
 - Problem sets must be submitted by the beginning of the lecture on the due date. Late assignments will not be accepted unless such accommodations have been discussed with me in advance.
 - Problem sets will consist of written answers, mathematical work, diagrams, and data manipulation:
-    – Written answers must be typed. 
-    – Numerical and algebraic work may be typed or neatly handwritten. Points may be deducted for illegible handwriting. I have included information on Canvas about typesetting mathematical equations, and will give a demonstration in class.
-    – For diagrams, either computer-made or hand-drawn are fine. If you draw a diagram by hand, then please draw neatly, clearly label each figure, and attach it to the rest of your assignment.
-    – For data manipulation problems, please carefully read the assignment to see what deliverables the problem is asking for. This may be certain statistics or graphs. 
+    - Written answers must be typed. 
+    - Numerical and algebraic work may be typed or neatly handwritten. Points may be deducted for illegible handwriting. I have included information on Canvas about typesetting mathematical equations, and will give a demonstration in class.
+    - For diagrams, either computer-made or hand-drawn are fine. If you draw a diagram by hand, then please draw neatly, clearly label each figure, and attach it to the rest of your assignment.
+    - For data manipulation problems, please carefully read the assignment to see what deliverables the problem is asking for. This may be certain statistics or graphs. 
 
 ### Assignment Submission
 
@@ -337,9 +337,9 @@ Each Student is responsible for delivering a copy before the due date.
 - Compile your answers into a single file. 
 - Give that file a descriptive title which includes your name.
 - PDF documents are preferred.
-    – If you have hand-drawn or handwritten components, scan them and merge the scanned images into the same document as the rest of the submission. 
-    – Word documents can be easily exported to pdf, and LyX/LaTeX documents compile to pdf by default. 
-    – If you submit something other than a pdf, there is a chance that images, formatting or other data may not be preserved.
+    - If you have hand-drawn or handwritten components, scan them and merge the scanned images into the same document as the rest of the submission. 
+    - Word documents can be easily exported to pdf, and LyX/LaTeX documents compile to pdf by default. 
+    - If you submit something other than a pdf, there is a chance that images, formatting or other data may not be preserved.
 
 No late assignments will be accepted unless discussed with the instructor ahead of time. Please speak to me as soon as possible if you need accommodations related to flexible deadlines.
 
