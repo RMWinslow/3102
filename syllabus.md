@@ -6,7 +6,7 @@ description: draft version syllabus for 3102.
 The up to date version can be found on the canvas page. This is for my own bookkeeping.
 
 
-1. TOC
+- TOC
 {:toc}
 
 
