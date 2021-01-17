@@ -6,6 +6,10 @@ description: draft version syllabus for 3102.
 The up to date version can be found on the canvas page. This is for my own bookkeeping.
 
 
+1. TOC
+{:toc}
+
+
 <!--Left Header: Spring 2021 (Remote)
 
 Center Header: Intermediate Macroeconomics
@@ -37,6 +41,7 @@ This Course is worth 4 Credits
 ### Class Schedule
 
 Tuesday, and Thursday, at 8 - 10 AM 
+{:.mx-auto}
 
 Lectures will be held online via Zoom. Please check the [canvas.umn.edu||course Canvas page] for the link to the Zoom meeting.
 
