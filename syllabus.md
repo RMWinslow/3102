@@ -43,7 +43,7 @@ This Course is worth 4 Credits
 Tuesday, and Thursday, at 8 - 10 AM 
 {:.mx-auto}
 
-Lectures will be held online via Zoom. Please check the [canvas.umn.edu||course Canvas page] for the link to the Zoom meeting.
+Lectures will be held online via Zoom. Please check the course Canvas page for the link to the Zoom meeting.
 
 Exams will be held online on March 04 and May 11. 
 
@@ -211,7 +211,7 @@ For example, say you get 32 out of 40 points on the midterm, 35 out of 40 points
 
 Name|x500|Office Hours
 :-:|:-:|:-:
-Robert Winslow | winsl | T,Th, 10-ll AM (or by appointment)
+Robert Winslow | winsl055 | T,Th, 10-ll AM (or by appointment)
 
 When contacting me via email, please make sure to put “[3012]” in the subject line. I'll try to respond to any such emails within 24 hours of receiving them.
 
@@ -235,7 +235,7 @@ If you use some other source for your textbook, I do strongly recommend that you
 
 This is a Remote course with no on-campus meetings. Course lectures will be delivered via Zoom at the times and days mentioned above, with meetings scheduled through the course Canvas website. Office hours take place via Zoom as well. 
 
-You need to log in to your Zoom account at [||umn.zoom.us], download the desktop app and use meeting IDs/links shared on Canvas to join the lecture meetings. The department expects all of you to attend lectures. In the lectures, you are encouraged to ask questions and make comments. 
+You need to log in to your Zoom account at [umn.zoom.us](umn.zoom.us), download the desktop app and use meeting IDs/links shared on Canvas to join the lecture meetings. The department expects all of you to attend lectures. In the lectures, you are encouraged to ask questions and make comments. 
 
 While I'm lecturing, you can type questions into the chat window of Zoom, and I will see those questions and answer them as is convenient. (Hopefully, you'll find this easier than keeping your arm raised.) 
 
@@ -418,7 +418,7 @@ Make-up midterms may be requested for the following additional reasons:
 • Documentation of a medical emergency,
 • Travel for school functions or similar circumstances.
 
-If you have any of the above complications other than a medical emergency, make sure to [winsl055@umn.edu||contact the instructor] at least two weeks before the exam. 
+If you have any of the above complications other than a medical emergency, make sure to contact the instructor at least two weeks before the exam. 
 
 ### Working in Groups on Exams (Scholastic Dishonesty)
 
@@ -456,19 +456,19 @@ Reasonable accommodations will be provided for all students with documented disa
 
 As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce a student’s ability to participate in daily activities. University of Minnesota services are available to assist you with addressing these and other concerns. 
 
-Information about confidential mental health services is available on campus at [https://boynton.umn.edu/clinics/mental-health||Boynton Mental Health].
+Information about confidential mental health services is available on campus at [Boynton Mental Health](https://boynton.umn.edu/clinics/mental-health).
 
-Student Counseling Services website: [https://counseling.umn.edu/||counseling.umn.edu]
+Student Counseling Services website: [counseling.umn.edu](https://counseling.umn.edu/)
 
 ### Sexual Misconduct:
 
 Sexual misconduct (sexual harassment, sexual assault, stalking, and relationship violence) includes unwelcome sexual advances, requests for sexual favors, and/or other verbal or physical conduct of a sexual nature. Such behavior is prohibited in the University setting.
 
-Per the [https://policy.umn.edu/hr/sexharassassault||U of M policy on sexual harassment], I am required to share information that I learn about possible sexual misconduct with the campus Title IX office. Within the requirements of my job, I will be as responsive as possible to your requests for confidentiality and support. You can also, or alternately, choose to talk with a confidential resource that will not share information that they learn about sexual misconduct. Confidential resources include [http://aurora.umn.edu/||The Aurora Center], [https://boynton.umn.edu/clinics/mental-health||Boynton Mental Health], and [https://counseling.umn.edu/||Student Counseling Services]. 
+Per the [U of M policy on sexual harassment](https://policy.umn.edu/hr/sexharassassault), I am required to share information that I learn about possible sexual misconduct with the campus Title IX office. Within the requirements of my job, I will be as responsive as possible to your requests for confidentiality and support. You can also, or alternately, choose to talk with a confidential resource that will not share information that they learn about sexual misconduct. Confidential resources include [The Aurora Center](http://aurora.umn.edu/), [Boynton Mental Health](https://boynton.umn.edu/clinics/mental-health), and [Student Counseling Services](https://counseling.umn.edu/). 
 
 ### Dropping a Class:
 
-Termination of attendance alone is not sufficient to drop a class. You must notify the Registrar’s office. Please contact your academic (college) adviser for details on this process and pay attention to [https://onestop.umn.edu/dates-and-deadlines||University deadlines for add/drop: onestop.umn.edu/dates-and-deadlines]
+Termination of attendance alone is not sufficient to drop a class. You must notify the Registrar’s office. Please contact your academic (college) adviser for details on this process and pay attention to [University deadlines for add/drop: onestop.umn.edu/dates-and-deadlines](https://onestop.umn.edu/dates-and-deadlines)
 
 ### Incomplete Grade:
 
@@ -484,29 +484,29 @@ Make up exams are possible for the final exam only if the student has another ex
 
 The University Student Conduct Code defines scholastic dishonesty as “Submission of false records of academic achievement; cheating on assignments or examinations; plagiarizing; altering, forging, or misusing a University academic record; taking, acquiring, or using text materials without faculty permission; acting alone or in cooperation with another to falsify records or to obtain dishonestly grades, honors, awards, or professional endorsement.”
 
-Penalties for scholastic dishonesty of any kind in any course will entail an "F" for the particular assignment/exam or the course. Website for information on Student Academic Misconduct: [http://oscai.umn.edu/avoid-violations/avoiding-scholastic-dishonesty]
+Penalties for scholastic dishonesty of any kind in any course will entail an "F" for the particular assignment/exam or the course. Website for information on Student Academic Misconduct: [http://oscai.umn.edu/avoid-violations/avoiding-scholastic-dishonesty](http://oscai.umn.edu/avoid-violations/avoiding-scholastic-dishonesty)
 
 ### Student Conduct and Classroom Behavior 
 
-Students are expected to contribute to a calm, productive, and learning environment. Check the [https://regents.umn.edu/sites/regents.umn.edu/files/2019-09/policy_student_conduct_code.pdf||Student Conduct Code] to find out what is expected of you. 
+Students are expected to contribute to a calm, productive, and learning environment. Check the [Student Conduct Code](https://regents.umn.edu/sites/regents.umn.edu/files/2019-09/policy_student_conduct_code.pdf) to find out what is expected of you. 
 
 ### Study Abroad in Economics:
 
-The Department encourages you to undertake Study Abroad. There are many courses in foreign countries that can satisfy some economics major, minor, or Liberal Education requirements. For more information, please contact our Undergraduate Advisers at [||econadv@umn.edu], or the at [http://www.umabroad.umn.edu/||University’s Learning Abroad Center]. 
+The Department encourages you to undertake Study Abroad. There are many courses in foreign countries that can satisfy some economics major, minor, or Liberal Education requirements. For more information, please contact our Undergraduate Advisers at [econadv@umn.edu](mailto:econadv@umn.edu), or the [University’s Learning Abroad Center](http://www.umabroad.umn.edu/). 
 
 ### Undergraduate Advisers:
 
-Contact the Undergraduate Advisers if you wish to sign up for an Economics major or minor or to get information about institutions of higher study. Your APAS form will list your progress toward an Economics degree. Advisers: Tiffany Kroeze Murphy and Annie Bigley ( [||econadv@umn.edu]); Sign up for appointments at [||econ.appointments.umn.edu] 
+Contact the Undergraduate Advisers if you wish to sign up for an Economics major or minor or to get information about institutions of higher study. Your APAS form will list your progress toward an Economics degree. Advisers: Tiffany Kroeze Murphy and Annie Bigley ( [econadv@umn.edu](mailto:econadv@umn.edu)); Sign up for appointments at [econ.appointments.umn.edu](econ.appointments.umn.edu)
 
 Office: 4-100 Hanson Hall , Phone number: 612-625-5893.
 
 ### Undergraduate Program Information:
 
-Available on the Internet at: [https://cla.umn.edu/economics/undergraduate]. Registration policies are listed in the University Course Schedules and College Bulletins.
+Available on the Internet at: [https://cla.umn.edu/economics/undergraduate](https://cla.umn.edu/economics/undergraduate). Registration policies are listed in the University Course Schedules and College Bulletins.
 
 ### Complaints or Concerns About Courses:
 
-All course grades are subject to department review. Please contact your instructor or TA if you have any complaints/concerns about the course. If your concerns are not resolved after talking with your instructor, you can contact: Professor Simran Sahi, Director of Undergraduate Studies. (Phone): 612-625-6353 and E-mail: [||ssahi@umn.edu] .
+All course grades are subject to department review. Please contact your instructor or TA if you have any complaints/concerns about the course. If your concerns are not resolved after talking with your instructor, you can contact: Professor Simran Sahi, Director of Undergraduate Studies. (Phone): 612-625-6353 and E-mail: [ssahi@umn.edu](ssahi@umn.edu).
 
 ### FERPA and Student Privacy
 
@@ -524,7 +524,7 @@ These technical requirements will allow you to access the Canvas site successful
 • A supported web browser (Mozilla Firefox or Google Chrome are strongly recommended; if you’re a Mac user and you like Safari, you may run into problems at some point)
 • Laptop, desktop or tablet with a webcam 
 
-You are expected to have the ability to use the following technologies: online course site navigation though CANVAS, assignment submission and exam taking in Canvas, Microsoft Office suite tools such as Word, PowerPoint and Excel (or equivalents), and online collaboration and presentation tools. Technical support is available at the UMN [https://it.umn.edu/technology-help-our-staff||IT help site]. Information on campus [http://it.umn.edu/computer-labs-learning-spaces-testing|| computer labs and learning spaces] are available. The Information Technology page [https://it.umn.edu/working-learning-campus/get-internet-access-campus||Working and Learning Off Campus] is for students who need help with technology issues.
+You are expected to have the ability to use the following technologies: online course site navigation though CANVAS, assignment submission and exam taking in Canvas, Microsoft Office suite tools such as Word, PowerPoint and Excel (or equivalents), and online collaboration and presentation tools. Technical support is available at the UMN [IT help site](https://it.umn.edu/technology-help-our-staff). Information on campus [computer labs and learning spaces](http://it.umn.edu/computer-labs-learning-spaces-testing) are available. The Information Technology page [Working and Learning Off Campus](https://it.umn.edu/working-learning-campus/get-internet-access-campus) is for students who need help with technology issues.
 
 It is recommended that students use a desktop or laptop computer less than six years old with at least 1GB of RAM, and use the most recent version of Chrome or Firefox with JavaScript enabled. Internet connections should be at least 512kbps.
 
