@@ -255,48 +255,27 @@ We will be covering material from the textbook, which is Macroeconomics (6th Edi
 The broad plan for the course is to go through the material in Williamson in the following order:
 
 • Measurement Issues
-
-– Introduction (Chapter 1)
-
-– National Accounts and Price Indices (Chapter 2)
-
-– Business Cycle Measurement (Chapter 3)
-
-– Definition and Measurement of Money (Beginning of Chapter 12)
-
+    – Introduction (Chapter 1)
+    – National Accounts and Price Indices (Chapter 2)
+    – Business Cycle Measurement (Chapter 3)
+    – Definition and Measurement of Money (Beginning of Chapter 12)
 • One Period Macroeconomic Competitive Equilibrium
-
-– Microeconomic Foundations: Consumer and Firm Behavior (Chapter 4)
-
-– Closed Economy Model (Chapter 5)
-
+    – Microeconomic Foundations: Consumer and Firm Behavior (Chapter 4)
+    – Closed Economy Model (Chapter 5)
 • Economic Growth:
-
-– The Malthusian world, and the Solow Growth Model (Chapter 7)
-
-– Endogenous Growth (Chapter 8)
-
+    – The Malthusian world, and the Solow Growth Model (Chapter 7)
+    – Endogenous Growth (Chapter 8)
 • Competitive Equilibrium with Multiple Time Periods
-
-– Microeconomic Foundations: The consumption-saving decision and credit markets. (Chapter 9)
-
-– Credit Market Imperfections (Chapter 10)
-
-– A Real Intertemporal Model with Investment (Chapter 11)
-
+    – Microeconomic Foundations: The consumption-saving decision and credit markets. (Chapter 9)
+    – Credit Market Imperfections (Chapter 10)
+    – A Real Intertemporal Model with Investment (Chapter 11)
 • Money and Business Cycles
-
-– A Monetary Intertemporal Model (Chapter 12)
-
-– Market-clearing Models of Business Cycles (Chapter 13)
-
-– Keynesian Sticky Prices Model (Chapter 14)
-
+    – A Monetary Intertemporal Model (Chapter 12)
+    – Market-clearing Models of Business Cycles (Chapter 13)
+    – Keynesian Sticky Prices Model (Chapter 14)
 • International Macroeconomics (If time allows)
-
-– International Trade in Goods and Assets (Chapter 16)
-
-– Money in the Open Economy (Chapter 17)
+    – International Trade in Goods and Assets (Chapter 16)
+    – Money in the Open Economy (Chapter 17)
 
  
 
@@ -315,11 +294,8 @@ We will frequently be solving systems of equations, taking derivatives, and find
 An introductory economics course is meant to teach you the language of economics, while an intermediate course is intended to teach you some of the tools of economics. To that end, our goals for this course will be to:
 
 • Learn about the measurement of macroeconomic data.
-
 • Develop an understanding of the foundations of modern macroeconomic models.
-
 • Subject these various models to data and determine their empirical relevance.
-
 • Use these models to gain a deeper understanding of economic growth and business cycles.
 
 
@@ -341,36 +317,24 @@ Learning to type mathematical equations will involve an initial time investment,
 ### Problem Sets
 
 • There will be several problem sets for the semester. Problem sets will be posted on the course Canvas page
-
 • The due date of every problem set will be indicated on the assignment, and will be at least one week from the day it is posted.
-
 • Problem sets must be submitted by the beginning of the lecture on the due date. Late assignments will not be accepted unless such accommodations have been discussed with me in advance.
-
 • Problem sets will consist of written answers, mathematical work, diagrams, and data manipulation:
-
-– Written answers must be typed. 
-
-– Numerical and algebraic work may be typed or neatly handwritten. Points may be deducted for illegible handwriting. I have included information on Canvas about typesetting mathematical equations, and will give a demonstration in class.
-
-– For diagrams, either computer-made or hand-drawn are fine. If you draw a diagram by hand, then please draw neatly, clearly label each figure, and attach it to the rest of your assignment.
-
-– For data manipulation problems, please carefully read the assignment to see what deliverables the problem is asking for. This may be certain statistics or graphs. 
+    – Written answers must be typed. 
+    – Numerical and algebraic work may be typed or neatly handwritten. Points may be deducted for illegible handwriting. I have included information on Canvas about typesetting mathematical equations, and will give a demonstration in class.
+    – For diagrams, either computer-made or hand-drawn are fine. If you draw a diagram by hand, then please draw neatly, clearly label each figure, and attach it to the rest of your assignment.
+    – For data manipulation problems, please carefully read the assignment to see what deliverables the problem is asking for. This may be certain statistics or graphs. 
 
 ### Assignment Submission
 
 Each Student is responsible for delivering a copy before the due date.
 
 • Compile your answers into a single file. 
-
 • Give that file a descriptive title which includes your name.
-
 • PDF documents are preferred.
-
-– If you have hand-drawn or handwritten components, scan them and merge the scanned images into the same document as the rest of the submission. 
-
-– Word documents can be easily exported to pdf, and LyX/LaTeX documents compile to pdf by default. 
-
-– If you submit something other than a pdf, there is a chance that images, formatting or other data may not be preserved.
+    – If you have hand-drawn or handwritten components, scan them and merge the scanned images into the same document as the rest of the submission. 
+    – Word documents can be easily exported to pdf, and LyX/LaTeX documents compile to pdf by default. 
+    – If you submit something other than a pdf, there is a chance that images, formatting or other data may not be preserved.
 
 No late assignments will be accepted unless discussed with the instructor ahead of time. Please speak to me as soon as possible if you need accommodations related to flexible deadlines.
 
@@ -379,11 +343,8 @@ No late assignments will be accepted unless discussed with the instructor ahead 
 You are encouraged to work in groups, and to use whatever other resources are available to help you learn. However, you must cite whatever sources you use. If you work with another person, give them credit at the top of the assignment, and don't copy their answers directly. 
 
 • Make sure to acknowledge the people you work with, putting their names on the first page of your assignment. For example, you might say “Pat Fakename helped me set up the Solow Growth model in question 2, and I helped them understand how to draw the graphs in question 4” 
-
 • Each student is responsible for writing up his or her own problem set. Do not simply copy and paste from your collaborators, even for something like showing your algebraic work. If you have trouble with a specific part of an assignment, and need to follow someone else's work step-by-step, then include a specific acknowledgment of such.
-
 • Identical Assignments that fail to acknowledge collaborators will get a grade of zero on the entire assignment, as will any assignment that fails to comply with the academic dishonesty regulations of the University of Minnesota.
-
 • Even with proper acknowledgment, if large chunks of the assignment are identical, then points may be deducted. This isn't a concern for something like an equation, but for written paragraphs, you should express things in your own words.
 
 Also note that while you may work in groups on problem sets, you must work alone on exams.
@@ -393,7 +354,6 @@ Also note that while you may work in groups on problem sets, you must work alone
 Feel free to use whatever sources you can to help you learn. A website like Stack Exchange, your friend who took the same course last semester, etc. Just remember the following two points:
 
 • Do not copy their words exactly. Even simple paraphrasing of another person's answer requires you to understand and then recreate a piece of knowledge. Ctrl+C, Ctrl+V doesn't help you learn anything at all. (And violates university policy.)
-
 • Give credit to whomever or whatever helped you out. Even though the assignments for this class will likely be seen only by me, they are nonetheless a piece of writing which you are claiming to have authored, and therefore it is respectful to give due credit to anyone who helped you with that authorship.
 
 So in summary, if you copy from someone else without attribution, you get zero on the entire assignment. If you copy from someone else with attribution, you may get partial point deductions. If you get help from someone else, but credit them, and only turn in similar answers rather than identical ones, you will get full credit. The incentive structure is set up to reward both honesty and thoughtful work.
@@ -421,7 +381,6 @@ If you disagree with the grading of a problem set or a test, you may submit it f
 There will be one midterm exam and one final exam. On each exam, you will be asked to answer :
 
 • 20 multiple choice questions, worth 1 point each.
-
 • 2 short-response questions, each worth 10 points. 
 
 Each exam will thus be scored out of 40 points and evenly split between multiple choice and short response.
@@ -447,13 +406,11 @@ Final | May 11 | 10:30 AM
 According to University policy, you may request a make-up final only if you have
 
 • Another test scheduled at the same time, or
-
 • Three exams within a 16-hour period.
 
 Make-up midterms may be requested for the following additional reasons:
 
 • Documentation of a medical emergency,
-
 • Travel for school functions or similar circumstances.
 
 If you have any of the above complications other than a medical emergency, make sure to [winsl055@umn.edu||contact the instructor] at least two weeks before the exam. 
@@ -558,11 +515,8 @@ In this class, our use of technology will make student names and emails visible 
 These technical requirements will allow you to access the Canvas site successfully, send/receive online communications, complete assigned activities, and view multimedia content. 
 
 • A U of M internet ID (your official U of M email address)
-
 • Reliable, high-speed Internet access
-
 • A supported web browser (Mozilla Firefox or Google Chrome are strongly recommended; if you’re a Mac user and you like Safari, you may run into problems at some point)
-
 • Laptop, desktop or tablet with a webcam 
 
 You are expected to have the ability to use the following technologies: online course site navigation though CANVAS, assignment submission and exam taking in Canvas, Microsoft Office suite tools such as Word, PowerPoint and Excel (or equivalents), and online collaboration and presentation tools. Technical support is available at the UMN [https://it.umn.edu/technology-help-our-staff||IT help site]. Information on campus [http://it.umn.edu/computer-labs-learning-spaces-testing|| computer labs and learning spaces] are available. The Information Technology page [https://it.umn.edu/working-learning-campus/get-internet-access-campus||Working and Learning Off Campus] is for students who need help with technology issues.
