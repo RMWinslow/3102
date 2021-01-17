@@ -211,7 +211,7 @@ For example, say you get 32 out of 40 points on the midterm, 35 out of 40 points
 
 Name|x500|Office Hours
 :-:|:-:|:-:
-Robert Winslow | winsl055 | T,Th, 10-ll AM (or by appointment)
+Robert Winslow | winsl055 | T,Th, 10-11 AM (or by appointment)
 
 When contacting me via email, please make sure to put “[3012]” in the subject line. I'll try to respond to any such emails within 24 hours of receiving them.
 
