@@ -205,7 +205,7 @@ Problem Sets | 30%
 Midterm | 30%
 Final Exam | 40%
 
-For example, say you get 32 out of 40 points on the midterm, 35 out of 40 points on the final, and 154 out of 170 total points on all the homework assignments. Then your grade for the course would be a B:\left(30\%\times\frac{154}{170}\right)+\left(30\%\times\frac{32}{40}\right)+\left(40\%\times\frac{35}{40}\right)\approx86\%
+For example, say you get 32 out of 40 points on the midterm, 35 out of 40 points on the final, and 154 out of 170 total points on all the homework assignments. Then your grade for the course would be a B: $$\left(30\%\times\frac{154}{170}\right)+\left(30\%\times\frac{32}{40}\right)+\left(40\%\times\frac{35}{40}\right)\approx86\%$$
 
 ### Instructor Contact and Office Hours
 
