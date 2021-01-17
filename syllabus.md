@@ -20,7 +20,7 @@ Right Header: ECON 003-->
 
 This is the expanded syllabus for Section 003 of ECON 3102 for the Spring 2021 semester, worth 4 course credits. The course is being taught remotely, and you are expected to attend lectures via Zoom. Please ensure you have a stable internet connection.
 
-My name is Robert Winslow, and I'll be the instructor for this section. Feel free to email me with absolutely any questions or concerns you have about the course: winsl055
+My name is Robert Winslow, and I'll be the instructor for this section. Feel free to email me with absolutely any questions or concerns you have about the course: [winsl055@umn.edu](mailto:winsl055@umn.edu)
 
 An abbreviated version of this syllabus, as well as other resources, can be found on the [course Canvas page](canvas.umn.edu).
 
@@ -506,7 +506,7 @@ Available on the Internet at: [https://cla.umn.edu/economics/undergraduate](http
 
 ### Complaints or Concerns About Courses:
 
-All course grades are subject to department review. Please contact your instructor or TA if you have any complaints/concerns about the course. If your concerns are not resolved after talking with your instructor, you can contact: Professor Simran Sahi, Director of Undergraduate Studies. (Phone): 612-625-6353 and E-mail: [ssahi@umn.edu](ssahi@umn.edu).
+All course grades are subject to department review. Please contact your instructor or TA if you have any complaints/concerns about the course. If your concerns are not resolved after talking with your instructor, you can contact: Professor Simran Sahi, Director of Undergraduate Studies. (Phone): 612-625-6353 and E-mail: [ssahi@umn.edu](mailto:ssahi@umn.edu).
 
 ### FERPA and Student Privacy
 
