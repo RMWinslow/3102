@@ -10,9 +10,13 @@ description: Breakdown of the course week by week.
 
 Note that the dates below are for section 003 of the Spring 2021 course. All the other info should be more broadly useful.
 
-<details markdown="block"><summary>Table of Contents</summary>
-- TOC
-{:TOC}
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
 </details>
 
 ## Week to week loop
