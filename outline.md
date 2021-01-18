@@ -59,6 +59,8 @@ To make things work more smoothly this semester, here's the planned week to week
 
 ---
 ## Week 2
+### Homework Due: Math Review
+
 ### Lecture 2: January 26
 #### Topics Covered:
 - National Savings and other aggregates
@@ -74,6 +76,8 @@ To make things work more smoothly this semester, here's the planned week to week
 
 ---
 ## Week 3
+### Homework Due: GDP Example Problem
+
 ### Lecture 2: February 02
 #### Topics Covered:
 - Review Preferences and Utility
@@ -95,6 +99,7 @@ To make things work more smoothly this semester, here's the planned week to week
 
 ---
 ## Week 4
+### Homework Due: National  Savings Problem
 ### Lecture 2: February 09
 #### Topics Covered:
 - Government Budget Constraint
@@ -117,6 +122,7 @@ To make things work more smoothly this semester, here's the planned week to week
 
 ---
 ## Week 5
+### Homework Due: Producer and/or consumer's problem
 ### Lecture 2: February 16
 #### Topics Covered:
 - Malthusian Growth
@@ -132,15 +138,19 @@ To make things work more smoothly this semester, here's the planned week to week
 
 ---
 ## Week 6
+### Homework Due: Something CE related
 ### Lecture 2: February 23
+- Continue Shocks in Solow Model
+- Maximizing Steady-state consumption
 
 ### Lecture 2: February 25
-
+Macroeconomics of Epidemics
 
 
 
 ---
 ## Week 7
+### Homework Due: Solow Growth
 ### Lecture 2: March 02
 Review Day
 
