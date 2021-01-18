@@ -61,13 +61,13 @@ To make things work more smoothly this semester, here's the planned week to week
 ## Week 2
 ### Homework Due: Math Review
 
-### Lecture 2: January 26
+### Lecture 3: January 26
 #### Topics Covered:
 - National Savings and other aggregates
 - Labor Market Variables
 - Finding economic aggregate data online.
 
-### Lecture 2: January 28
+### Lecture 4: January 28
 #### Topics Covered:
 - Business Cycle Definitions
 - Seasonal Adjustment
@@ -78,7 +78,7 @@ To make things work more smoothly this semester, here's the planned week to week
 ## Week 3
 ### Homework Due: GDP Example Problem
 
-### Lecture 2: February 02
+### Lecture 5: February 02
 #### Topics Covered:
 - Review Preferences and Utility
 - Concept of a Competitive Equilibrium
@@ -88,7 +88,7 @@ To make things work more smoothly this semester, here's the planned week to week
     - Shifts in exogenous wage or outside income
 - Labor supply curve
 
-### Lecture 2: February 04
+### Lecture 6: February 04
 #### Topics Covered:
 - Representative Firm's Problem
 - Profit maximization
@@ -100,7 +100,7 @@ To make things work more smoothly this semester, here's the planned week to week
 ---
 ## Week 4
 ### Homework Due: National  Savings Problem
-### Lecture 2: February 09
+### Lecture 7: February 09
 #### Topics Covered:
 - Government Budget Constraint
 - Endogenous vs Exogenous
@@ -110,7 +110,7 @@ To make things work more smoothly this semester, here's the planned week to week
 - Underlying Algebraic Concepts
 - Drawing a picture of equilibrium
 
-### Lecture 2: February 11
+### Lecture 8: February 11
 #### Topics Covered:
 - Continue discussion of equilbrium
 - Shocks to CE
@@ -123,13 +123,13 @@ To make things work more smoothly this semester, here's the planned week to week
 ---
 ## Week 5
 ### Homework Due: Producer and/or consumer's problem
-### Lecture 2: February 16
+### Lecture 9: February 16
 #### Topics Covered:
 - Malthusian Growth
 - Solow Growth
 - differences in assumptions
 
-### Lecture 2: February 18
+### Lecture 10: February 18
 #### Topics Covered:
 - Finding steady state in Solow
 - Shocks in solow model
@@ -139,11 +139,11 @@ To make things work more smoothly this semester, here's the planned week to week
 ---
 ## Week 6
 ### Homework Due: Something CE related
-### Lecture 2: February 23
+### Lecture 11: February 23
 - Continue Shocks in Solow Model
 - Maximizing Steady-state consumption
 
-### Lecture 2: February 25
+### Lecture 12: February 25
 Macroeconomics of Epidemics
 
 
@@ -151,7 +151,7 @@ Macroeconomics of Epidemics
 ---
 ## Week 7
 ### Homework Due: Solow Growth
-### Lecture 2: March 02
+### Lecture 13: March 02
 Review Day
 
 ### Midterm: March 04
@@ -161,36 +161,36 @@ Review Day
 
 ---
 ## Week 8
-### Lecture 2: March 09
+### Lecture 14: March 09
 
-### Lecture 2: March 11
+### Lecture 15: March 11
 
 
 
 
 ---
 ## Week 9
-### Lecture 2: March 16
+### Lecture 16: March 16
 
-### Lecture 2: March 18
+### Lecture 17: March 18
 
 
 
 
 ---
 ## Week 10
-### Lecture 2: March 23
+### Lecture 18: March 23
 
-### Lecture 2: March 25
+### Lecture 19: March 25
 
 
 
 
 ---
 ## Week 11
-### Lecture 2: March 30
+### Lecture 20: March 30
 
-### Lecture 2: April 01
+### Lecture 21: April 01
 
 
 ---
@@ -200,27 +200,27 @@ Review Day
 
 ---
 ## Week 12
-### Lecture 2: April 13
+### Lecture 22: April 13
 
-### Lecture 2: April 15
+### Lecture 23: April 15
 
 
 
 
 ---
 ## Week 13
-### Lecture 2: April 20
+### Lecture 24: April 20
 
-### Lecture 2: April 22
+### Lecture 25: April 22
 
 
 
 
 ---
 ## Week 14
-### Lecture 2: April 27
+### Lecture 26: April 27
 
-### Lecture 2: April 29
+### Lecture 27: April 29
 Review Day
 
 
