@@ -10,7 +10,7 @@ description: Breakdown of the course week by week.
 
 Note that the dates below are for section 003 of the Spring 2021 course. All the other info should be more broadly useful.
 
-<details open markdown="block">
+<details markdown="block">
   <summary>
     Table of contents
   </summary>
