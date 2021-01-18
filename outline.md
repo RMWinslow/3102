@@ -57,6 +57,7 @@ To make things work more smoothly this semester, here's the planned week to week
 - Walk through the syllabus
 - Chapter 1 Slides
 - Demonstrate LaTex
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 1 Slides from the publisher
@@ -69,6 +70,7 @@ To make things work more smoothly this semester, here's the planned week to week
 - GDP and GNP
 - Price Indices
 - Chain Weighting
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 2 Slides from the publisher
@@ -90,12 +92,14 @@ Before next week, students should:
 - National Savings and other aggregates
 - Labor Market Variables
 - Finding economic aggregate data online.
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 2 Slides from the publisher
 - In-class notes
 - [Bureau of Labor Statistics Glossary](https://www.bls.gov/bls/glossary.htm): A handy one-page reference for labor definitions.
 - [BEA NIPA Handbook](https://www.bea.gov/resources/methodologies/nipa-handbook): If you really really want to understand the details of national accounts, here's the 100s of pages of technical manuals.
+
 #### Other Material:
 - UN report on food waste (just as an example of the importance of carefully reading definitions)
 
@@ -104,6 +108,7 @@ Before next week, students should:
 #### Topics Covered:
 - Business Cycle Definitions
 - Seasonal Adjustment
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 3 Slides from the publisher
@@ -129,6 +134,7 @@ Before next week, students should:
     - Consumer's constraints
     - Shifts in exogenous wage or outside income
 - Labor supply curve
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 4 Slides from the publisher
@@ -140,10 +146,12 @@ Before next week, students should:
 - Profit maximization
 - Shifts in exogenous prices and technology
 - Labor demand curve
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 4 Slides from the publisher
 - In-class notes
+
 #### Other Material
 - [An article about the tradeoffs between the distributional and distortionary effects of taxation (Links to an external site.)](https://www.clevelandfed.org/en/newsroom-and-events/publications/forefront/ff-v3n01/ff-v3n0181-the-economics-of-taxation.aspx)
 - [Thomas Sargeant's very brief summary of Macroeconomics](https://www.vox.com/2014/4/19/5631654/this-graduation-speech-teaches-you-everything-you-need-to-know-about)
@@ -168,6 +176,7 @@ Before next week, students should:
     - Pareto Efficiency
 - Underlying Algebraic Concepts
 - Drawing a picture of equilibrium
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 5 Slides from the publisher
@@ -180,6 +189,7 @@ Before next week, students should:
 - Comparisons to business cycle facts
 - Changing the model to income tax
 - Public goods
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 5 Slides from the publisher
@@ -200,6 +210,7 @@ Before next week, students should:
 - Malthusian Growth
 - Solow Growth
 - differences in assumptions
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - 
@@ -208,6 +219,7 @@ Before next week, students should:
 #### Topics Covered:
 - Finding steady state in Solow
 - Shocks in solow model
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 7 Slides from the publisher
@@ -229,6 +241,7 @@ Also, if you have time, read up to section 2.1 of "The Macroeconomics of Epidemi
 #### Topics Covered:
 - Continue Shocks in Solow Model
 - Maximizing Steady-state consumption
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Ch. 7 Slides from the publisher
@@ -243,6 +256,7 @@ Also, if you have time, read up to section 2.1 of "The Macroeconomics of Epidemi
 - Quick walkthrough of basic SIR assumptions
 - Optimal policy given these assumptions
 - Discussion of modelling more generally.
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - Macroeconomics of Epidemics.pdf
@@ -258,6 +272,7 @@ Before next week, students should:
 ### Homework Due: Solow Growth
 ### Lecture 13: March 02
 Review Day
+
 #### Material from the Lecture:
 - Lecture recording (will be posted Sunday)
 - In-class notes
