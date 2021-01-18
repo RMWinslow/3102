@@ -49,7 +49,7 @@ To make things work more smoothly this semester, here's the planned week to week
 
 
 ---
-## Week 1
+## [Week 1](/outline/week1)
 
 ### Lecture 1: January 19
 #### Topics Covered:
