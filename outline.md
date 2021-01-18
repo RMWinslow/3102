@@ -12,14 +12,16 @@ Note that the dates below are for section 003 of the Spring 2021 course. All the
 
 To make things work more smoothly this semester, here's the planned week to week loop:
 - Tuesday: 
+    - Homework due 8am
+        - single question
+        - based on material from week before last
+        - Sometimes an additional question based on data work
     - Lecture (2 hours: 8-10)
+    - office hours (2 hours: 10-11)
 - Thursday: 
     - Lecture (2 hours: 8-10)
-    - office hours (2 hours: 10-12???)
+    - office hours (2 hours: 10-11)
 - Saturday: 
-    - Homework due
-        - single question
-        - based on material from previous week
 - Sunday:
     - admin:
         - grade homeworks (time target: <2 hours)
