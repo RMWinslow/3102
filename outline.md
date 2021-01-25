@@ -14,7 +14,6 @@ Note that the dates below are for section 003 of the Spring 2021 course. All the
   <summary>
     Table of contents
   </summary>
-  {: .text-delta }
 1. TOC
 {:toc}
 </details>
