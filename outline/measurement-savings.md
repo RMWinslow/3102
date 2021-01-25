@@ -1,10 +1,14 @@
 ---
 title: National Savings
-parent: Outlines
+parent: Topic Outlines
 ---
 
 Private Disposable Income
-: Private Disposable Income ($Y_d$) = GDP ($Y$) + Net Factor Payments ($Y$) + Transfers ($TR$) + Interest on Government Debt ($INT$) - Taxes ($T$)
+: How much households have to spend, in aggregate.
+
+$$Y_d = Y + NFP + TR + INT - T$$
+
+<span color="red">Private Disposable Income</span> ($Y_d$) = GDP ($Y$) + Net Factor Payments ($Y$) + Transfers ($TR$) + Interest on Government Debt ($INT$) - Taxes ($T$)
 
 Private Sector Saving
 : Private Disposable Income - Consumption
