@@ -1,6 +1,6 @@
 ---
 title: National Savings
-parent: Topic Outlines
+parent: Course Outline
 ---
 
 Private Disposable Income 
