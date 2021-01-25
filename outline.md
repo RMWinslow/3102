@@ -152,7 +152,7 @@ Before next week, students should:
 - In-class notes
 
 #### Other Material
-- [An article about the tradeoffs between the distributional and distortionary effects of taxation (Links to an external site.)](https://www.clevelandfed.org/en/newsroom-and-events/publications/forefront/ff-v3n01/ff-v3n0181-the-economics-of-taxation.aspx)
+- [An article about the tradeoffs between the distributional and distortionary effects of taxation.](https://www.clevelandfed.org/en/newsroom-and-events/publications/forefront/ff-v3n01/ff-v3n0181-the-economics-of-taxation.aspx)
 - [Thomas Sargeant's very brief summary of Macroeconomics](https://www.vox.com/2014/4/19/5631654/this-graduation-speech-teaches-you-everything-you-need-to-know-about)
 
 
