@@ -6,9 +6,19 @@ parent: Topic Outlines
 Private Disposable Income
 : How much households have to spend, in aggregate.
 
-$$Y_d = Y + NFP + TR + INT - T$$
+$$Y_d = \textcolor{6c71c4}{Y} + \textcolor{#268bd2}{NFP} + \textcolor{#dc322f}{TR} + \textcolor{#859900}{INT} - \textcolor{#b58900}{T}$$
 
-<span color="red">Private Disposable Income</span> ($Y_d$) = GDP ($Y$) + Net Factor Payments ($Y$) + Transfers ($TR$) + Interest on Government Debt ($INT$) - Taxes ($T$)
+<span style="color:">Private Disposable Income</span> = 
+<span style="color:#6c71c4">Output</span> + 
+<span style="color:#268bd2">Net factor payments</span> + 
+<span style="color:#dc322f">Net transfers from the government to private individuals</span> + 
+<span style="color:#859900">Interest on government debt held by individuals </span> - 
+<span style="color:#b58900">Taxes</span>
+
+
+https://fred.stlouisfed.org/series/B087RC1Q027SBEA
+
+NIPA 2-7 Income and savings has some interesting notes on what isn't counted as savings
 
 Private Sector Saving
 : Private Disposable Income - Consumption
